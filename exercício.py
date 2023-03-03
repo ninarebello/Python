@@ -1,0 +1,16 @@
+"""
+
+EXERCÍCIO:
+00. - Calcular o dobro de um número dado pelo usuário
+
+"""
+
+# - Digitar o 1º número (ed)
+n1 = float(input ("digite um número:"))
+
+# - Calcular o dobro (pd)
+dup = (n1 * 2)
+
+# - Exibir o resultado (sd)
+print("O dobro de", n1, "é", dup)
+
